@@ -1,0 +1,58 @@
+TUTORIAL: INTEGRAR GIT CON ANDROID STUDIO
+
+PASO 1: Procedemos a ingresar a la página principal de GITHUB para crear la respectiva cuenta, damos clic en  SIGN UP 
+ 
+
+
+
+
+
+
+
+
+PASÓ 2: Una vez demos clic en SIGN UP nos enviara a  la página donde se diligenciaran los datos para la respectiva cuenta, asi:
+ 
+Daremos clic en crear cuenta.
+Nos enviara a la página siguiente el cual dejaremos las opciones que vienen por defecto 
+
+
+
+ 
+La siguiente pagina, si el usuario desea la podrá omitir 
+ 
+Y listo nuestra cuenta ha sido creada con los datos que dimos anteriormente 
+ 
+PASO 3: Procederemos a descargar la aplicación GIT, ingresando a la página principal 
+ 
+Una vez dentro, ingresamos a la pestaña Dowloads para descargar la aplicación
+ 
+Una vez dentro de esta nos indicara en que sistema operativo la instalaremos, para este caso será WINDOWS
+ 
+E iniciara la respectiva descargar 
+ 
+
+PASÓ 4: Procederemos a configurar nuestro programa a la hora de instalarlo, una vez ejecutado nos aparecerá la siguiente ventana:
+ 
+Daremos clic en NEXT.
+
+
+
+A continuación ingresaremos el directorio en donde queremos que se instale la aplicación, para este caso se lo dejara por defecto, y damos clic en NEXT
+ 
+
+En la siguiente ventana dejaremos por defecto las configuraciones, y damos NEXT
+ 
+
+Dejaremos las opciones por defecto hasta que inicie la instalación.
+ 
+
+PASO 5: una vez se instale GIT, nos dirigimos a ANDROID STUDIO, y nos dirigimos a la pestaña FILE y a continuación a SETTINGS
+ 
+Una vez se abra la pestaña de configuraciones nos dirigimos a la pestaña VERSION CONTROL y luego en GIT asi:
+ 
+Para este caso la carpeta donde instalamos GIT se llenó por defecto 
+ 
+
+Si androd no te marca por defecto la carpeta automáticamente, se deberá hacerlo manualmente dando clic en el boto derecho de la barra
+ 
+
